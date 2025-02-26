@@ -1,4 +1,4 @@
-# Green Academy API 
+<!-- # Green Academy API 
 
 ## 🗂️Project Overview
 The Green Academy API serves as the backbone of Green Academy's online learning platform, facilitating **course management,** **student enrollment,** and **secure data handling.** Built with Django REST Framework, it adheres to RESTful principles while ensuring performance optimisation, robust security, and scalability through caching, pagination, and authentication mechanisms
@@ -191,4 +191,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## 👏🏽Acknoledgments 
 - Django & Django REST Framework
 - PostgreSQL
-
+ -->
